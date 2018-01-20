@@ -26,7 +26,7 @@ SECRET_KEY = 'idf%r&2n1asfe-(66_#-zo&khn+#i=tf6ywhqdqogv)^zc7_e$'
 DEBUG = True
 
 # 127.0.0.1 - adresa aktuálního/mého počítače, "pythonanywhere.com" - server
-ALLOWED_HOSTS = ["127.0.0.1", "pythonanywhere.com"]
+ALLOWED_HOSTS = ["127.0.0.1", ".pythonanywhere.com"]
 
 
 # Application definition
