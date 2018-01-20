@@ -1,0 +1,6 @@
+/db.sqlite3
+# lomítko na začátku, ignoruje konkrétní soubor v konkrétním adresáři
+/venv/
+__pycache__/
+# bývá i ve vnořených adresářích
+# lomítko na konci, znamená to, že je to adresář
